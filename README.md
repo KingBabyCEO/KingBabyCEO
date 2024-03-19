@@ -19,6 +19,7 @@ Choosing our Platform means aligning with a vision that transcends traditional D
 
 Social links:
 - Website: https://www.kingceo.baby/
+- Telegram: https://t.me/kingbabyceo
 - Twitter: https://twitter.com/KINGBABYCEO_BSC
 - Whitepaper: https://king-baby-ceo.gitbook.io
 - KYC: https://coinsult.net/projects/king-baby-ceo/
